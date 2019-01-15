@@ -1,0 +1,15 @@
+.bg {
+  background-image: url(https://image.freepik.com/free-photo/blurred-black-and-white-background-blur-office-with-bokeh-light-background_7190-2287.jpg);
+  background-size: 100%;
+}
+
+.bg_white {
+  background-color: rgba(255, 255, 255, 0.5);};
+}
+
+.margin_10 {
+	margin-top: 10;
+	margin-bottom: 10;
+	margin-left: 10;
+	margin-right: 10;
+}
